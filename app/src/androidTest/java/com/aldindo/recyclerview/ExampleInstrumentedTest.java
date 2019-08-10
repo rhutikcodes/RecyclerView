@@ -1,4 +1,4 @@
-package com.aldindo.recyclerviewnew;
+package com.aldindo.recyclerview;
 
 import android.content.Context;
 
